@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreSchoolWeb", "PreSchool.Admin\PreSchoolWeb.csproj", "{2054EB7E-9199-47B2-A3AD-8857DA762F2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreSchoolShared", "PreSchoolShared\PreSchoolShared.csproj", "{2725010D-0ED0-4644-AE1A-80773B2959A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2054EB7E-9199-47B2-A3AD-8857DA762F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2054EB7E-9199-47B2-A3AD-8857DA762F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2054EB7E-9199-47B2-A3AD-8857DA762F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2054EB7E-9199-47B2-A3AD-8857DA762F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2725010D-0ED0-4644-AE1A-80773B2959A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2725010D-0ED0-4644-AE1A-80773B2959A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2725010D-0ED0-4644-AE1A-80773B2959A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2725010D-0ED0-4644-AE1A-80773B2959A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B86FEA2D-FA61-4383-827E-0B0ACDF3EEE7}
+	EndGlobalSection
+EndGlobal
